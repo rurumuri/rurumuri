@@ -1,4 +1,12 @@
-## Hi there 👋
+# rurumuri
+
+## About rurumuri
+
+👯监修中👯
+
+## GitHub
+
+[![rurumuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=rurumuri)](https://github.com/rurumuri/github-readme-stats)
 
 <!--
 **rurumuri/rurumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
