@@ -6,7 +6,15 @@
 
 ## GitHub
 
-[![rurumuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=rurumuri)](https://github.com/rurumuri/github-readme-stats)
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="github-metrics-left.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="github-metrics-right.svg" />
+  </a>
+</p>
 
 <!--
 **rurumuri/rurumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
